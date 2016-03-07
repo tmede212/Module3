@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+
+.navbar {
+  background-color:  #c2c2a3;
+  border: 0px;
+  border-radius: 0px;
+
+}
+.navbar-brand {
+  font-size: 2em;
+  padding-top: 0px;
+}
+section {
+  background-color: #cce6ff;
+  margin-bottom: 15px;  
+}
+#nav-list li {
+  background-color: #fff0b3;
+}
+#nav-list li:hover {
+  background-color: #cce6ff;
+}
+
+
